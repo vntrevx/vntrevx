@@ -67,7 +67,6 @@ A performance proof package that preserves the checked X7 trading surface while 
 🐍 Primary stack  Python and Rust
 ⚙️ Building       Automation and developer tooling
 📈 Exploring      Deterministic backtesting and trading systems
-🤖 Working with   Claude, Codex, and multi-agent workflows
 ```
 
 ---
