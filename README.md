@@ -68,25 +68,3 @@ A performance proof package that preserves the checked X7 trading surface while 
 ⚙️ Building       Automation and developer tooling
 📈 Exploring      Deterministic backtesting and trading systems
 ```
-
----
-
-<div align="center">
-
-### 💡 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Gradient footer" />
-
-*Build it. Measure it. Make it reliable.*
-
-**Automation should remove uncertainty, not hide it.**
-
-</div>
