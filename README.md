@@ -8,7 +8,7 @@
 
 # Hi there, I'm vntrevx 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Python+Engineer+Focused+on+Automation;Trading+Systems+%26+Backtesting;AI-Assisted+Developer+Workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Python+Automation+Engineer;Fast+Systems.+Deterministic+Results.;Trading+Infrastructure+Built+for+Reliability)](https://git.io/typing-svg)
 
 ![Technology stack](https://skillicons.dev/icons?i=python,rust,ts,docker,linux,git,githubactions&perline=7)
 
