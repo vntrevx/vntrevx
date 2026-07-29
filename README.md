@@ -1,11 +1,4 @@
 <div align="center">
-<a href="https://github.com/jeantimex/neofetch-profile">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=vntrevx&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fvntrevx%2Fvntrevx%2Fmain%2Fneofetch.json&amp;v=3b3c6e8">
-    <img alt="vntrevx GitHub profile in Neofetch style" src="https://neofetch-profile.vercel.app/api?username=vntrevx&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fvntrevx%2Fvntrevx%2Fmain%2Fneofetch.json&amp;v=3b3c6e8">
-  </picture>
-</a>
-
 # Hi there, I'm vntrevx 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Python+Automation+Engineer;Fast+Systems.+Deterministic+Results.;Trading+Infrastructure+Built+for+Reliability)](https://git.io/typing-svg)
