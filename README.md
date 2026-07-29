@@ -1,4 +1,10 @@
 <div align="center">
+<a href="https://github.com/jeantimex/neofetch-profile">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=vntrevx&amp;theme=github-dark">
+    <img alt="vntrevx GitHub profile in Neofetch style" src="https://neofetch-profile.vercel.app/api?username=vntrevx&amp;theme=github-light">
+  </picture>
+</a>
 
 # Hi there, I'm vntrevx 👋
 
@@ -49,7 +55,7 @@ A performance proof package that preserves the checked X7 trading surface while 
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/vntrevx/vntrevx/output/github-contribution-grid-snake-dark.svg)
+![Contribution snake](https://raw.githubusercontent.com/vntrevx/vntrevx/output/github-contribution-grid-snake-dark.svg?v=1)
 
 </div>
 
