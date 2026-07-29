@@ -1,23 +1,18 @@
-<h1 align="center">Hi, I'm vntrevx</h1>
-<p align="center">
-  Python engineer focused on automation, dependable systems, and measurable performance.
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,docker,linux&perline=4" alt="Python, Rust, Docker, and Linux">
-</p>
+# Hi there, I'm vntrevx 👋
 
-## About
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Python+Engineer+Focused+on+Automation;Trading+Systems+%26+Backtesting;AI-Assisted+Developer+Workflows)](https://git.io/typing-svg)
 
-I build automation and research tools where correctness, reproducibility, and operational safety matter. My current work focuses on Python-based trading infrastructure, deterministic backtesting, performance optimization, and reliable developer workflows.
+![Technology stack](https://skillicons.dev/icons?i=python,rust,ts,docker,linux,git,githubactions&perline=7)
 
-## Tech Stack
+*Building dependable automation, research tools, and safety-first trading infrastructure.*
 
-- **Languages:** Python, Rust, TypeScript
-- **Systems:** Docker, Linux, GitHub Actions
-- **Focus:** Automation, backtesting, performance engineering, safety-first trading infrastructure
+</div>
 
-## Featured Projects
+---
+
+## 🚀 Featured Projects
 
 ### [NFI Backtest Engine](https://github.com/vntrevx/NFI_BackTestEngine)
 A lightweight Rust/Python research backtester for NFI strategies, with deterministic execution and an exact comparison lane against official Freqtrade results.
@@ -28,8 +23,65 @@ A clean-room, local-first crypto trading engine for deterministic backtesting, p
 ### [NFI X7 Optimization](https://github.com/vntrevx/NFI_X7_Optimization)
 A performance proof package that preserves the checked X7 trading surface while accelerating live-style pair analysis for wider pair lists.
 
-## GitHub Activity
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vntrevx&theme=transparent" alt="vntrevx's GitHub statistics">
-</p>
+## 📊 Engineering Snapshot
+
+<div align="center">
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vntrevx&theme=tokyonight)](https://github.com/vntrevx)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vntrevx&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Contribution snake](https://raw.githubusercontent.com/vntrevx/vntrevx/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+🐍 Primary stack  Python and Rust
+⚙️ Building       Automation and developer tooling
+📈 Exploring      Deterministic backtesting and trading systems
+🤖 Working with   Claude, Codex, and multi-agent workflows
+```
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Gradient footer" />
+
+*Build it. Measure it. Make it reliable.*
+
+**Automation should remove uncertainty, not hide it.**
+
+</div>
