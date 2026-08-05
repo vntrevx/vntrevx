@@ -1,7 +1,7 @@
 <div align="center">
 # Hi there, I'm vntrevx 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Python+Automation+Engineer;Fast+Systems.+Deterministic+Results.;Trading+Infrastructure+Built+for+Reliability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Python+Automation+%26+Systems+Engineering;Deterministic+Backtesting+%26+Research+Tooling;Reliable+Trading+Infrastructure)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
