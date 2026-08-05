@@ -24,16 +24,6 @@ A performance proof package that preserves the checked X7 trading surface while 
 
 ---
 
-## 📊 Engineering Snapshot
-
-<div align="center">
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vntrevx&theme=tokyonight)](https://github.com/vntrevx)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
