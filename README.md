@@ -4,13 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Python+Automation+Engineer;Fast+Systems.+Deterministic+Results.;Trading+Infrastructure+Built+for+Reliability)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-111827?style=flat&logo=rust&logoColor=DEA584" alt="Rust">
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Docker-111827?style=flat&logo=docker&logoColor=2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat&logo=linux&logoColor=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-111827?style=flat&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust">
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
 </p>
 
 *Building dependable automation, research tools, and safety-first trading infrastructure.*
