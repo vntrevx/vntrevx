@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there, I'm vntrevx 👋
+<h1 align="center">Hi there, I'm vntrevx 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=Python+Automation+%26+Systems+Engineering;Deterministic+Backtesting+%26+Research+Tooling;Reliable+Trading+Infrastructure)](https://git.io/typing-svg)
 
